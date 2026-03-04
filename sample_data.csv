@@ -1,0 +1,26 @@
+id,name,age,email,salary,department,hire_date,performance_score
+1,Alice Johnson,29,alice@company.com,72000,Engineering,2021-03-15,4.5
+2,Bob Smith,34,bob@company.com,85000,Marketing,2019-07-22,3.8
+3,Carol White,,carol@company.com,91000,Engineering,2020-01-10,4.2
+4,David Brown,41,david@company.com,62000,HR,2018-05-30,3.1
+5,Eve Davis,27,eve@company.com,,Sales,2022-08-14,4.7
+6,Frank Miller,52,frank@company.com,115000,Engineering,2015-11-05,4.9
+7,Grace Lee,31,grace.lee@company.com,78000,Marketing,2020-09-18,3.5
+8,Bob Smith,34,bob@company.com,85000,Marketing,2019-07-22,3.8
+9,Henry Wilson,,henry@company.com,,HR,2021-12-01,
+10,Iris Taylor,26,iris@company.com,58000,Sales,2023-02-28,4.1
+11,Jack Anderson,999,jack@company.com,67000,Engineering,2022-06-10,3.9
+12,Karen Thomas,38,karen@company.com,920000,Finance,2017-04-12,4.3
+13,Leo Jackson,45,not-an-email,79000,Marketing,2016-08-25,3.7
+14,Mia White,33,,83000,Engineering,2020-03-07,4.6
+15,Noah Harris,28,noah@company.com,71000,Sales,2021-10-19,4.0
+16,Olivia Martin,,olivia@company.com,65000,HR,2022-01-15,3.2
+17,Peter Garcia,36,peter@company.com,88000,Finance,2018-09-03,4.4
+18,Quinn Martinez,,quinn@company.com,-5000,Engineering,2019-05-20,
+19,Rachel Robinson,29,rachel@company.com,69000,Sales,2021-07-08,4.8
+20,Sam Clark,43,sam@company.com,105000,Finance,2014-12-15,3.6
+21,Tina Lewis,31,tina@company.com,77000,Marketing,32020-04-11,4.1
+22,Uma Walker,,uma@company.com,,HR,,
+23,Victor Hall,38,victor@company.com,81000,engineering,2020-11-22,4.0
+24,Wendy Allen,25,wendy@company.com,54000,Sales,2023-06-30,3.9
+25,Xavier Young,55,xavier@company.com,125000,Engineering,2012-02-18,4.7
